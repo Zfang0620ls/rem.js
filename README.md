@@ -1,2 +1,2 @@
 # 使用方式：
-script标签直
+script标签
